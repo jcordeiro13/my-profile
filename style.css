@@ -95,10 +95,9 @@ ul{
 }
 
 .img-circle{
-	border-radius: 10px;
-	align-content: flex-end;
+	padding-left: 320px;
 }
-	
+
 .btn-blue{
 	background-color: #4FA095;
 	color: black;
@@ -132,6 +131,7 @@ ul{
 
 .column {
 	flex: 1;
+	border-radius: 10px;
 }
 
 .footer-basic {
